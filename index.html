@@ -1,0 +1,92 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="app.css" />
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/select2.min.js"></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/css/select2.min.css" rel="stylesheet" />
+  </head>
+  <body>
+    <div class="container"> 
+       
+        <h2>Payment Request Form</h2>
+        <form id="paymentForm">
+            <div class="form-group">
+                <label for="paymentId">Payment Request ID:</label>
+                <select id="payment_ids" onchange="handle('payment_ids')" name="paymentId" class="form-control">
+                    <option value="" selected>Select Payment Request ID</option>
+                    <!-- Options will be populated dynamically by JavaScript -->
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+            </div>
+            <div class="form-group">
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+            </div>
+            <div class="form-group">
+                <label for="datepicker">Due Date:</label>
+                <input type="date" id="datepicker"  name="datepicker" required>
+            </div>
+            <div class="form-group">
+              <label for="amount">Amount:</label>
+              <input type="number" id="amount" name="amount" min="0" step="0.01" required>
+              
+              <!-- Dropdown for currency selection -->
+              <select id="currency" onchange="updateStep()">
+                  <option value="INR">INR</option>
+                  <option value="USD">USD</option>
+              </select>
+          </div>
+            <div class="form-group">
+                <label for="company">Company Name:</label>
+                <select id="company" name="company">
+                    <option value="" selected disabled hidden>Select Company Name</option>
+                    <!-- <option value="HI-rel tech">HI-rel tech</option>
+                    <option value="UST GLOBAL">UST GLOBAL</option> -->
+                    <option value="GWC DATA.AI">GWC DATA.AI</option>
+                    <!-- <option value="ZOHO">ZOHO</option> -->
+                   
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="country">Account no:</label>
+                <div class="custom-select">
+                    <select id="Account no" name="country">
+                        <option value="" selected disabled hidden>Select Country</option>
+                        <option>1847558</option>
+                        <option>1999459</option>
+                       
+                      
+                    </select>
+  
+  
+  
+                    
+                </div>
+            </div>
+            <button type="submit" onclick="SendEmail()">Submit Payment Request</button>
+        </form>
+        <div id="mail_content">
+          <p> </p>
+        </div>
+    </div>
+  
+  <script>
+     function myfunction(){
+        let a= document.getElementById("payment_ids").value;
+     }
+
+    </script>
+    
+
+  
+
+    <!-- domo.js optional utils -->
+    <script src="https://unpkg.com/ryuu.js"></script>
+    <script src="app.js"></script>
+    <script>
+ </script>
+  </body>
+</html>

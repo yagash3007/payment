@@ -1,0 +1,124 @@
+[
+    {
+        "inactive_customers": {
+          "keywords": "inactive customers, customers not doing business, PPC inactive accounts",
+          "answer": "<div><p>Are the customers who have not done business with PPC for 3 Journey Circles (JC).</p><p>By the way, Journey Circles are 12 Months in a year split into 13 JCs with 28 days each.</p></div>"
+        }
+      },
+      {
+        "active_customers": {
+          "keywords": "active customers, customers buying regularly, PPC active accounts",
+          "answer": "<div><p>Are the customers who have bought at least once/more in 3 JCs.</p></div>"
+        }
+      },
+      {
+        "collection_target": {
+          "keywords": "collection target, overdue payments, future due, outstanding amount, payment collection formula",
+          "answer": "<div><p>Collection Target = 100% of Overdue + 85% of Future Due – 240 days Outstanding Amount</p><p><strong>Where:</strong></p><ul><li><strong>Overdue</strong> = Payments that have crossed the due date, at the END of JC.</li><li><strong>Future Due</strong> = Payments that are going to fall in the upcoming JC.</li></ul><p>We are not considering Current JC Payment in collection Actual (Example: After freezing JC-2 Target, We should not Take JC-2 Payment in Actual).</p><p>We are not considering the following payments in collection Actual: Advance, RTGS, Immediate Payments.</p></div>"
+        }
+      },
+      {
+        "guidelines_to_active_customers": {
+          "keywords": "inactive customers activation, customer reactivation, customer retention, customer engagement strategies",
+          "answer": "<div><ol><li>a. First, identify inactive customers in your Market Circle</li><li>b. Analyze Inactive customer’s buying pattern from previous data</li><li>c. Perform back work on getting the reasons on customers turned Inactive. This can be done either by asking the Branch Manager, ex-employee if possible, or may be, to the customer themselves, on direct visit but in a polite manner. Combination of all will give better clarity on the problem/reasons</li><li>d. Re-target Inactive customers</li><li>Embrace technology</li><li>Customization of products</li><li>Increase the volume what we sell so as to reduce cost/kg</li><li>Collect payments as per the due date</li><li>Know your visit objectives</li></ol><p>On practicing these tips, our Logistic and Ware House costs (Operational Cost) reduces.</p></div>"
+        }
+      },
+      {
+        "sales_category": {
+          "keywords": "sales category, product categories, types of products sold",
+          "answer": "<div><ol><li>Repack</li><li>Bulk</li><li>Performance Chemicals</li></ol></div>"
+        }
+      },
+      {
+        "collection_on_time": {
+          "keywords": "collection on time, COT, payment collection efficiency, on-time payments",
+          "answer": "<div><p>Collection on Time = Sum of payments collected on or before DUE DATE</p><p>It is then measured in terms of Percentage (%), which equals (Collection on time / Total amount to be collected).</p></div>"
+        }
+      },
+      {
+        "payment_collection_tips": {
+          "keywords": "collect payment on time, payment collection strategies, improving payment collection",
+          "answer": "<div><ul><li>Be prepared before meeting the customer.</li><li>Ensure that your needs are discussed first.</li><li>Have confidence in your speech while discussing payment collection.</li><li>Explain how timely payment will affect your growth or personal development.</li><li>Whenever necessary, seek assistance from seniors at the office.</li><li>Do not be tempted by new orders while you are on a collection call.</li></ul></div>"
+        }
+      },
+      {
+        "importance_of_payment_collection": {
+          "keywords": "importance of payment collection, reasons to collect payments on time, business finance management",
+          "answer": "<div><ul><li>Need money to run business</li><li>To maintain a good relationship with customers, principals, service providers, and financial institutions</li><li>To increase the overall image of the company</li><li>To upgrade the credit rating of the company</li><li>To reduce overdue interest</li><li>To reduce Average Overdue Delay Days (AODD) and Average Collection Days (ACD)</li></ul></div>"
+        }
+      },
+      {
+        "market_realization": {
+          "keywords": "market realization, selling above market price, realized value",
+          "answer": "<div>Market realization is a process of selling above the market price on a given day at a given time, considering all the costs factored to arrive at the realized value.</div>"
+        }
+      },
+      {
+        "increasing_mr_ways": {
+          "keywords": "increasing market realization, strategies to improve MR, maximizing realized value",
+          "answer": "<div><ul><li>Define Our Value.</li><li>Inform the Up Trend.</li><li>To Know Customer Interesting Area or Field</li><li>To make regular follow up</li><li>Sit with Customer Place and finalize the Price.</li><li>Honor Commitment.</li><li>To Satisfy Customer Ego</li><li>To take advantage of having of your relationship with the customer</li><li>Any deviations or unhappy customers to meet them in Personal to explain properly</li><li>Urgent Delivery based on customer immediate requirement.</li><li>Non availability of material in the market</li><li>Non regular or Opportunity Customer to Change Premium and explain that you are doing support to him.</li><li>Go to the Extra Mile.</li><li>Safety, quality related service to boost our relationship.</li><li>Quantity is less and want to delivered, Milk it.</li><li>Customized Volume (Small Pack)</li><li>365 days of Material available</li><li>Excellent relation</li><li>Explore Niche application of the product</li><li>Collecting the payment on Due Date</li></ul></div>"
+        }
+      },
+      {
+        "kra_sales_executive": {
+          "keywords": "KRA of Sales Executive, key result areas of sales executive, performance measurement criteria",
+          "answer": "<div><p style=\"font-weight: bold;\">KRA OF SALES EXECUTIVE (Repack + Bulk + Performance Chemicals Business)</p><p><strong>The following are the key result areas of sales executive. Based on the achieve KRA sales executive performance will be measured.</strong></p><table><tbody><tr><th>Focus Area</th><th>Weightage</th><th>Target Area</th><th>Specific Target Area</th><th>UOM</th><th>Measure</th><th>Weightage</th></tr><tr><td>Increased Revenue by Achieving the Target</td><td>44</td><td>Repack Sales</td><td>Repack business - annual volume</td><td>MT</td><td>Growth Basis</td><td>20</td></tr><tr><td></td><td></td><td>Performance Chemicals</td><td>PC Business - annual volume</td><td>Rs - in lakhs</td><td>T v A</td><td>14</td></tr><tr><td></td><td></td><td>Bulk Sales</td><td>Bulk Business - annual volume</td><td>MT</td><td>T v A</td><td>10</td></tr><tr><td>Net MR</td><td>30</td><td>Focus on High Gross Margin Products &amp; Customers</td><td>Market Realisation - annual value</td><td>Rs.In lakhs</td><td>T v A</td><td>30</td></tr><tr><td>Others</td><td>10</td><td></td><td></td><td></td><td></td><td>10</td></tr><tr><td>Increased Collection Performance</td><td>16</td><td>Collection on time (COT%)</td><td>COT % (Payment Collected on or Before Due Date)</td><td>%</td><td>T v A</td><td>6</td></tr><tr><td></td><td></td><td>Collection target (CT)</td><td>CT = (OD) + (85% OF FD) - (240 DAYS O/S): (Min 85 % acheive collection target)</td><td>Rs.In lakhs</td><td>T v A</td><td>10</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table></div>"
+        }
+      },
+      {
+        "standard_terms_sales_executive_confirmation": {
+          "keywords": "standard terms for sales executive confirmation, sales executive performance criteria",
+          "answer": "<div><p>STANDARD TERMS FOR SALES EXECUTIVE CONFIRMATION</p><ul><li>Customer Base: (Avg. billing for last 3 JC’s + 12%)</li><li>NCA (New Customer Addition): 5 NOS.</li><li>Target vs Actual ( Repack): Minimum 65 %</li><li>For Example:<br>Let us assume a sales executive joined in JC 4.<br>Average of pervious 3 JC's number of customer billed - JC 1, JC 2 &amp; JC 3 = X number of customer. He have to achieve X + 12% in JC 8, JC 09 &amp; JC 10.</li><li>STANDARD TERMS FOR SALES EXECUTIVE CONFIRMATION</li><li>60 New Leads to enter in CRM.</li><li>20 Leads has to convert</li><li>Need to Score Above 80% in all Internal Trainings Exams</li><li>has to identify 100MT Potential</li><li>If Any Inactive customers allocated to this MC, Then keep 30% for overall conversion (Record while allocating to respective executive)</li><li>Note: SE Need to achieve above figures within 6 JC’s to get confirm.</li></ul></div>"
+        }
+      },
+      {
+        "sales_executive_book": {
+          "keywords": "sales executive book, SEB, structured sales process, performance tracking",
+          "answer": "<div>Executives that use a structured sales process and know their own performance normally outperform. That’s the reason PPC has provided you with a tool on hand, namely Sales Executive Book (SEB), to track and gain better clarity on the Market Circle you handle. One Sales Executive Book is assigned to one Market Circle for the entire Fiscal Year.</div>"
+        }
+      },
+      {
+        "work_activities_schedule": {
+          "keywords": "work activities schedule, daily tasks, weekly tasks, JC wise tasks, time management at work",
+          "answer": "<table border=\"1\" cellspacing=\"0\" cellpadding=\"5\"><thead><tr><th>Activities</th><th>Daily</th><th>Weekly</th><th>JC wise</th><th>But When?</th></tr></thead><tbody><tr><td>Ageing Report Check</td><td></td><td></td><td></td><td></td></tr><tr><td>Customer visit report</td><td></td><td></td><td></td><td></td></tr><tr><td>Expense Policy claim as per company</td><td></td><td></td><td></td><td></td></tr><tr><td>Lead Management System (LMS)</td><td></td><td></td><td></td><td></td></tr><tr><td>Overdue/ Outstanding</td><td></td><td>Week 1, 2, 3, 4 of every JC</td><td></td><td></td></tr><tr><td>Customer Credit Limit Hold Check</td><td></td><td>As Credit limit of customers get hold on every Monday of the week, check on every Saturday of previous week</td><td></td><td></td></tr><tr><td>Pending Order Report Check</td><td></td><td></td><td></td><td></td></tr><tr><td>Performance chemical key account Entries</td><td></td><td>Week 1 - Saturday of every JC</td><td></td><td></td></tr><tr><td>PJP to HO</td><td></td><td>Every Saturday</td><td></td><td></td></tr><tr><td>Potential vs. Target</td><td></td><td>Week 3 - Saturday of every JC</td><td></td><td></td></tr><tr><td>SEB entries</td><td></td><td>Week 1 - Saturday of every JC</td><td></td><td></td></tr><tr><td>Target vs. Actual</td><td></td><td>Week 1, 2, 3, 4 of every JC</td><td></td><td></td></tr></tbody></table></div>"
+        }
+      },
+      {
+        "hpa_self_assessment_checklist": {
+          "keywords": "HPA self-assessment checklist, high priority activities, sales performance evaluation",
+          "answer": "<div><table border=\"1\" cellspacing=\"0\" cellpadding=\"5\"><thead><tr><th>Key Area</th><th>My Sales HPA (for SEs)</th><th>An important HPA</th><th>I am performing well</th><th>I am ok at this</th><th>I need to learn and improve</th></tr></thead><tbody><tr><td>Sales Plan</td><td>Potential vs Target</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Target vs Actual</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Development plan - JC wise (A4 sheet markings)</td><td></td><td></td><td></td><td></td></tr><tr><td>Preparation</td><td>Pre-visit plan</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>PJP</td><td></td><td></td><td></td><td></td></tr><tr><td>Prospecting</td><td>Target List Planning</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Referrals from existing Customer</td><td></td><td></td><td></td><td></td></tr><tr><td>Presenting</td><td>Objection Management</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Samples to customers</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Cross & Up selling</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Selling Value/ Price Strategy</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Problem Solving/ Creativity</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Managing Customer Expectations</td><td></td><td></td><td></td><td></td></tr><tr><td>Closings</td><td>Ask for business</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Price Negotiations</td><td></td><td></td><td></td><td></td></tr><tr><td>Pipeline Management</td><td>CRM reporting</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Follow touch system to crack business</td><td></td><td></td><td></td><td></td></tr><tr><td>Training</td><td>Continuous learning with training programs</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Role practicing</td><td></td><td></td><td></td><td></td></tr></tbody></table></div>"
+        }
+      },
+      {
+        "lead_management_system_stages": {
+          "keywords": "lead management system stages, LMS stages, lead processing stages",
+          "answer": "<div><p>Stage 1: Prospect All leads created by executives by default will be in this status. Stage 2: Qualified Lead Leads once approved by the respective BM/PM/Division Head, it will be auto moved to this status. Stage 3: Visit Moving to this status will be validated against your CVR Entry. Note: CVR date match should happen at this stage. Stage 4: Credit Evaluation Moving to this status will make sure that the customer master creation is done / already exists. Stage 5: Sampling/ Trails Moving to this status will require a Sample entry in your CVR. Stage 6: Quote Moving to this status will require a valid Quotation. Note: Quote Id is required for reference at this stage. Stage 7: Converted (Positive Closure) Lead will be automatically moved to this status, once confirmed and dispatch is done. Stage 7: Close (Negative Closure) Leads are to be closed with valid reasons from the drop down. RM’s will close the leads for the below mentioned List of values are: (i)If the company is closed. (ii)If the Product is discontinued. (iii)Traders Lead</p></div>"
+        }
+      },
+      {
+        "lead_management_system_guidelines": {
+          "keywords": "lead management system guidelines, LMS guidelines, lead processing guidelines",
+          "answer": "<div><ul><li>While creating leads, select the correct “Source” of lead. Do not select random sources.</li><li>For GC leads, unit of measurement is in “Metric Tons”.</li><li>For PC leads, unit of measurement is in “Lacs”.</li><li>For NPD leads, unit of measurement is in “Liters”.</li><li>Potential for a lead must be per Annum (Potential per Annum).</li><li>Executive receives an email alert on creation of lead.</li><li>Branch Manager receives an email alert on creation of a lead for approval from “Prospect” stage to “Qualified Lead”.</li><li>Branch Manager receives an email alert, if a created lead is sent to Product Manager for approval on their respective assigned products, to approve from “Prospect” to “Qualified Lead” Stage.</li><li>In case, Branch Manager/ Product Manager do not approve leads, it gets Auto- Approved after 2 days from the date of lead creation.</li><li>Lead creation date must be prior to Visit date. If not the stage will not change to ‘Visit” status automatically.</li><li>Incase Visit date is prior to lead creation date, automatic stage change to “Visit” will not happen. Instead, the executive must manually change the lead status to “Visit” stage in LMS, by matching with CVR entered.</li><li>Automated conversion to “Visit” stage will happen only if the created lead is in “Qualified Lead” stage and then CVR entry is entered.</li><li>One quote for one lead. Do not create multiple quotes for a single lead. If not, stage conversion will not happen automatic, as lead takes in to consideration only the first quote created.</li><li>In case multiple quotes have been created, close the unwanted quotes those are not dispatched/ not used, with the help of Branch Coordinator. Even then automatic stage change will not happen in LMS, instead executive should match manually the correct quote Id, to change to “Quote” stage.</li><li>If the quote has been matched manually in LMS after dispatch, the stage will change to “Converted”.</li><li>Potential for any lead can be changed/ corrected before moving it to “Quote” Stage.</li><li>Lead cannot be created for Existing customer, already billed product.</li><li>Lead cannot be again created, if a lead for same customer and same product is open.</li></ul></div>"
+        }
+      }
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+]

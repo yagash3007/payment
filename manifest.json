@@ -1,0 +1,64 @@
+{
+  "name": "payment",
+  "version": "1.0.0",
+  "size": {
+    "width": 3,
+    "height": 6
+  },
+  "mapping": [],
+  "workflowMapping": [
+    {
+      "alias": "send_email",
+      "modelId": null,
+      "version": null,
+      "parameters": [
+        {
+          "name": "to",
+          "aliasedName": "to",
+          "type": "text",
+          "list": false,
+          "children": []
+        },
+        {
+          "name": "subject",
+          "aliasedName": "subject",
+          "type": "text",
+          "list": false,
+          "children": []
+        },
+        {
+          "name": "body",
+          "aliasedName": "body",
+          "type": "text",
+          "list": false,
+          "children": []
+        }
+      ]
+    }
+   
+  ],
+
+
+  "collections": [
+    {
+      "name": "request_form",
+      "schema": {"columns": 
+            [{"name": "requested_by", "type": "STRING"}, 
+              {"name": "requested_to", "type": "STRING"},
+              {"name": "contact_details", "type": "STRING"},
+              {"name": "amount", "type": "STRING"},
+              {"name": "company_name", "type": "STRING"}
+            ]
+        },
+      "syncEnabled": true
+    },
+    {
+      "name": "request_form"
+    }
+  ],
+
+  "fileName": "manifest.json",
+  "id": "8c64b595-c7b2-4da7-815e-14de9078f880",
+  "proxyId":"f2ea6116-3b0e-404c-89fc-57f53b5189e9"
+  
+}
